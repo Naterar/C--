@@ -1,0 +1,6 @@
+101 The_Great_Gatsby F._Scott_Fitzgerald 1
+102 To_Kill_a_Mockingbird Harper_Lee 1
+103 1984 George_Orwell 0
+104 Pride_and_Prejudice Jane_Austen 0
+105 The_Catcher_in_the_Rye J.D._Salinger 0
+106 The_Hobbit J.R.R._Tolkien 0
